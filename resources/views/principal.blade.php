@@ -1,4 +1,4 @@
-<!DOCTYPE html>      //Declaramos al etiqueta Doctype para especificar que es un archivo html
+<!DOCTYPE html>
 <html lang="es">
 
 <head>
@@ -9,12 +9,12 @@
     <meta name="author" content="Incanatoit.com">
     <meta name="keyword" content="Sistema ventas Laravel Vue Js, Sistema compras Laravel Vue Js">
     <link rel="shortcut icon" href="img/favicon.png">
-    <title>Sistema Ventas - IncanatoIT</title>  //Titulo del documento  
+    <title>Sistema Ventas - IncanatoIT</title>  
     <!-- Icons -->
     <link href="css/font-awesome.min.css" rel="stylesheet">
     <link href="css/simple-line-icons.min.css" rel="stylesheet">
     <!-- Main styles for this application -->
-    <link href="css/style.css" rel="stylesheet"> //todos estos link hacen referencia a la hoja de estilo
+    <link href="css/style.css" rel="stylesheet">
 </head>
 
 <body class="app header-fixed sidebar-fixed aside-menu-fixed aside-menu-hidden">
